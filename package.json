@@ -126,6 +126,7 @@
     "@solana/spl-token": "^0.1.8",
     "@solana/web3.js": "^1.31.0",
     "d3": "^7.3.0",
-    "notistack": "^2.0.3"
+    "notistack": "^2.0.3",
+    "use-resize-observer": "^8.0.0"
   }
 }
