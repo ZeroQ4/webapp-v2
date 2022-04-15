@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import 'inter-ui'
 import '@reach/dialog/styles.css'
 import { WalletKitProvider } from '@gokiprotocol/walletkit'
@@ -46,8 +47,8 @@ ReactDOM.render(
             endpoint: 'https://dawn-red-log.solana-mainnet.quiknode.pro/',
           },
           devnet: {
-            name: 'devnet',
-            endpoint: 'https://api.devnet.solana.com',
+            name: 'mainnet-beta',
+            endpoint: 'https://api.mainnet-beta.solana.com',
           },
         }}
         commitment="processed"
