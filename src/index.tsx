@@ -47,8 +47,8 @@ ReactDOM.render(
             endpoint: 'https://dawn-red-log.solana-mainnet.quiknode.pro/',
           },
           devnet: {
-            name: 'mainnet-beta',
-            endpoint: 'https://api.mainnet-beta.solana.com',
+            name: 'devnet',
+            endpoint: 'https://api.devnet.solana.com',
           },
         }}
         commitment="processed"
