@@ -44,7 +44,7 @@ ReactDOM.render(
         networkConfigs={{
           'mainnet-beta': {
             name: 'Custom RPC',
-            endpoint: 'https://dawn-red-log.solana-mainnet.quiknode.pro/',
+            endpoint: 'https://api.mainnet-beta.solana.com',
           },
           devnet: {
             name: 'devnet',
